@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshr3git&label=Profile%20views&color=0e75b6&style=flat" alt="sureshr3git" /> </p>
 <p>&nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sureshr3git&show_icons=true&locale=en" alt="sureshr3git" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshr3git&show_icons=true&locale=en" alt="sureshr3git" /></p>
 <img align="right" height="60%" width="40%" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966" alt="suresh">&nbsp;
 <p align="left"> <a href="https://twitter.com/sureshr35" target="blank"><img src="https://img.shields.io/twitter/follow/sureshr35?logo=twitter&style=for-the-badge" alt="sureshr35" /></a> </p>
 
