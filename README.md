@@ -7,7 +7,7 @@
 <img align="right" height="60%" width="40%" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966" alt="suresh">
 <p align="left"> <a href="https://twitter.com/sureshr35" target="blank"><img src="https://img.shields.io/twitter/follow/sureshr35?logo=twitter&style=for-the-badge" alt="sureshr35" /></a> </p>
 
-- 🌱 I’m currently learning **PostgreSql**
+- 🌱 I’m currently learning **Computer Networking**
 
 - 👯 I’m looking to collaborate on **OpenSource Communities**
 
