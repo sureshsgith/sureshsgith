@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Communities**
 
-- 💬 Ask me about **linux,Golang,DSA**
+- 💬 Ask me about **OpenSource,linux,Golang,DSA**
 
 - 📫 How to reach me **sr3175@gmail.com**
 
