@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Suresh Ratlavath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p><a align="center" href="https://ibb.co/gvY3PK8"><img src="https://i.ibb.co/6vQm1CS/Green-Black-Modern-Personal-Linked-In-Banner.png" alt="Green-Black-Modern-Personal-Linked-In-Banner" border="0"></a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshr3git&label=Profile%20views&color=0e75b6&style=flat" alt="sureshr3git" /> </p>
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshr3git&show_icons=true&locale=en" alt="sureshr3git" /></p>
