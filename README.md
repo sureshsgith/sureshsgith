@@ -4,11 +4,11 @@
 
 <p><a align="center" href="https://ibb.co/gvY3PK8"><img src="https://i.ibb.co/6vQm1CS/Green-Black-Modern-Personal-Linked-In-Banner.png" alt="Green-Black-Modern-Personal-Linked-In-Banner" border="0"></a></p>
 
-<p> <img align= "left" src="https://komarev.com/ghpvc/?username=sureshr3git&label=Profile%20views&color=0e75b6&style=flat" alt="sureshr3git" />
-    <a href="https://twitter.com/sureshr35" target="blank"><img width=125.99 height=20 src="https://img.shields.io/twitter/follow/sureshr35?logo=twitter&style=for-the-badge" alt="sureshr35" /></a> 
+<p> <img align= "left" src="https://komarev.com/ghpvc/?username=sureshsgith&label=Profile%20views&color=0e75b6&style=flat" alt="sureshsgith" />
+    <a href="https://twitter.com/sureshstwt" target="blank"><img width=125.99 height=20 src="https://img.shields.io/twitter/follow/sureshstwt?logo=twitter&style=for-the-badge" alt="sureshstwt" /></a> 
 </p>
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshr3git&show_icons=true&locale=en" alt="sureshr3git" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshsgith&show_icons=true&locale=en" alt="sureshsgith" /></p>
 <img align="right" height="60%" width="40%" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966" alt="suresh">&nbsp;
 <p </p>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sureshr35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshr35" height="30" width="40" /></a>
+<a href="https://twitter.com/sureshstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshstwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suresh-ratlavath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh-ratlavath" height="30" width="40" /></a>
 <a href="https://instagram.com/sureshrathod_357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sureshrathod_357" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sureshr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sureshr3" height="30" width="40" /></a>
@@ -33,6 +33,6 @@
 <div>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshr3git&" alt="sureshr3git" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshsgith&" alt="sureshsgith" />
 </p>
 </div>
